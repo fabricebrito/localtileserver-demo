@@ -2,3 +2,4 @@
 localtileserver[colormaps,jupyter]==0.5.8
 shapely
 rasterio
+jhsingle-native-proxy>=0.0.10
